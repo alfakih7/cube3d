@@ -1,0 +1,1 @@
+WE ./path_to_the_west_texture    F 1 ,0, 256
